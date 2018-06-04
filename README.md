@@ -2,7 +2,12 @@
 
 _Clones all your GitHub public repositories to your machine_
 
-<img width="400" src="https://user-images.githubusercontent.com/3625244/40909608-a830f2ae-67f2-11e8-8bf0-6aa996031bac.png">
+<img width="400" src="https://user-images.githubusercontent.com/3625244/40910175-1c32ad2c-67f4-11e8-90c3-9f1f52557509.png">
+
+## Prerequisites
+
+- curl
+- jq
 
 ## Using
 
